@@ -1,1 +1,12 @@
-# cpnt260-a3
+# Web Developer Fast Track - CPNT260
+
+# Assignment 3 - 404 Page Not Found
+
+# Sebastian Kaiser
+
+# GH Pages - https://kaiser-sk.github.io/cpnt260-a3/
+
+# Attributions:
+
+Lululemon Logo - https://cdn.freebiesupply.com/logos/large/2x/lululemon-logo.svg
+Hero Image - https://unsplash.com/photos/4uojMEdcwI8
