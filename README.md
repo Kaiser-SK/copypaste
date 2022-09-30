@@ -6,7 +6,9 @@
 
 # GH Pages - https://kaiser-sk.github.io/cpnt260-a3/
 
-# Attributions:
+# Above and Beyond:
+Non-scrolling Hero Image: Code lines 65 - 72
 
+# Attributions:
 Lululemon Logo - https://cdn.freebiesupply.com/logos/large/2x/lululemon-logo.svg
 Hero Image - https://unsplash.com/photos/4uojMEdcwI8
